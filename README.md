@@ -105,3 +105,11 @@ The blue cube has an object type of PhysicsBody, which will not respond from you
 <img width="1695" height="688" alt="image" src="https://github.com/user-attachments/assets/551f6737-e8e3-4eb0-a495-89c8e289dca3" />
 
 But the stair case will have an World Static object type setting, So it will respond from your Line Trace for Object array.
+
+<img width="1549" height="714" alt="image" src="https://github.com/user-attachments/assets/b8fb7607-2e3d-4cac-813f-57d4ba1099ec" />
+
+In the Project Settings > Engine > Collision we can add a custom Object trace.
+
+<img width="1894" height="954" alt="image" src="https://github.com/user-attachments/assets/3611f66e-ad8f-4a96-a7ac-c4a2305e2cd5" />
+
+You might want to click off on the Editor world before the custom trace shows off.
