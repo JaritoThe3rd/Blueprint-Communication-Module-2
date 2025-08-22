@@ -91,3 +91,17 @@ COMPILE FIRST then your custom "Interaction" trace channel will show up in the b
 
 
 The main difference between "Line Trace Channels" and "Line Trace for Objects" is basically object type can be an array and it can trigger multiple interactable objects.
+
+
+<img width="585" height="288" alt="image" src="https://github.com/user-attachments/assets/4e0d8d3c-e4dd-4a90-9b3b-9dabdaba9364" />
+
+
+But you need to make sure to make an array for your object types.
+
+<img width="1348" height="580" alt="image" src="https://github.com/user-attachments/assets/5012a9e6-a9ff-49f4-b66b-7e3f3706a95c" />
+
+The blue cube has an object type of PhysicsBody, which will not respond from your Line Trace for Object array.
+
+<img width="1695" height="688" alt="image" src="https://github.com/user-attachments/assets/551f6737-e8e3-4eb0-a495-89c8e289dca3" />
+
+But the stair case will have an World Static object type setting, So it will respond from your Line Trace for Object array.
