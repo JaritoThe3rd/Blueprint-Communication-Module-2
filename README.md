@@ -131,3 +131,18 @@ Ignores Actors from receiving the trace. It's an array too so you can have multi
 <img width="426" height="458" alt="image" src="https://github.com/user-attachments/assets/7052e348-6b1e-4f0b-9bd1-50d6884250c4" />
 
 More settings for trace objects.
+
+
+<img width="1073" height="559" alt="image" src="https://github.com/user-attachments/assets/93d1fdb7-14fd-4872-89d0-5b6dedc5dd98" />
+
+<img width="678" height="540" alt="image" src="https://github.com/user-attachments/assets/57448d17-7a7b-4ff2-8200-93a40fc64c7b" />
+
+Multi line trace basically returns multiple hits.
+
+<img width="1908" height="951" alt="image" src="https://github.com/user-attachments/assets/c454867e-035a-43db-9dc5-8e3523f87ad6" />
+
+This is a single line trace channel where it passes through the first white block and then it stops detecting the next couple of blocks.
+
+<img width="1908" height="932" alt="image" src="https://github.com/user-attachments/assets/40222084-503d-42a8-af14-18d46c6fd97b" />
+
+For multi line trace channel it passes and detects multiple objects at once.
