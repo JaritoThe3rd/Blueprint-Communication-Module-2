@@ -146,3 +146,17 @@ This is a single line trace channel where it passes through the first white bloc
 <img width="1908" height="932" alt="image" src="https://github.com/user-attachments/assets/40222084-503d-42a8-af14-18d46c6fd97b" />
 
 For multi line trace channel it passes and detects multiple objects at once.
+
+
+<img width="1081" height="573" alt="image" src="https://github.com/user-attachments/assets/fad48a9e-7bbf-4299-a91d-e2dc8d4ad588" />
+
+
+<img width="940" height="722" alt="image" src="https://github.com/user-attachments/assets/4b139e45-4cfd-487f-8c7c-f95e2e749c0a" />
+
+<img width="842" height="854" alt="image" src="https://github.com/user-attachments/assets/5195a1b4-4ad5-4906-96ec-6cb4937589a0" />
+
+For line trace objects "Location" and "Impact Point" are similar compared to multi line trace.
+
+<img width="1048" height="623" alt="image" src="https://github.com/user-attachments/assets/c358da68-0bbd-4e62-b58a-316091b99399" />
+
+Where it gathers all the data as a group.
