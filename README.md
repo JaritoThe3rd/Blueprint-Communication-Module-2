@@ -113,3 +113,21 @@ In the Project Settings > Engine > Collision we can add a custom Object trace.
 <img width="1894" height="954" alt="image" src="https://github.com/user-attachments/assets/3611f66e-ad8f-4a96-a7ac-c4a2305e2cd5" />
 
 You might want to click off on the Editor world before the custom trace shows off.
+
+
+<img width="1301" height="726" alt="image" src="https://github.com/user-attachments/assets/fdf5376b-88cc-41cf-92b0-e91f6940db7e" />
+
+!!! Compile the Blueprint TraceCannon for it to show your custom trace object.
+
+
+<img width="669" height="126" alt="image" src="https://github.com/user-attachments/assets/19ea679b-9e89-44f7-bbf1-8c55653d9535" />
+
+Beware of complex collision setting from Line trace.
+
+<img width="332" height="43" alt="image" src="https://github.com/user-attachments/assets/ecff9d97-146a-4930-96d1-0565ccde61af" />
+
+Ignores Actors from receiving the trace. It's an array too so you can have multiple ignore actors.
+
+<img width="426" height="458" alt="image" src="https://github.com/user-attachments/assets/7052e348-6b1e-4f0b-9bd1-50d6884250c4" />
+
+More settings for trace objects.
