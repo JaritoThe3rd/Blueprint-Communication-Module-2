@@ -207,3 +207,16 @@ Remember the pattern of your Interaction Trace blueprints.
 
 
 <img width="821" height="492" alt="image" src="https://github.com/user-attachments/assets/4c7a32d2-1e75-46e9-a379-0e1a28202441" />
+
+
+<img width="1129" height="251" alt="image" src="https://github.com/user-attachments/assets/cd24b40e-382d-43af-83d6-6c3fa84f6f06" />
+
+IA_Interact is a boolean whether we're interacting or not two states.
+
+<img width="931" height="278" alt="image" src="https://github.com/user-attachments/assets/1bf85b58-6e45-469b-902f-e4a8a21ec243" />
+
+IMC_Defaule this is for mapping keys and which input.
+
+<img width="3439" height="542" alt="image" src="https://github.com/user-attachments/assets/2efcb71a-bcc6-4375-8310-8dd10c220363" />
+
+There are existing ones already and add IA_Interact.
