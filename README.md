@@ -201,5 +201,6 @@ Go to LooAt function > Edit the blueprints for "Verb" into "Open" and "Noun" int
 
 <img width="1876" height="986" alt="image" src="https://github.com/user-attachments/assets/bb137ce7-a56b-466a-8ae1-beab8e33ef69" />
 
+Remember the pattern of your Interaction Trace blueprints.
 
-<iframe src="https://blueprintue.com/render/ila1if9l/" scrolling="no" allowfullscreen></iframe>
+<img width="1546" height="601" alt="image" src="https://github.com/user-attachments/assets/68f9a151-6188-4fff-b693-af4d54875b6e" />
