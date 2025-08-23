@@ -178,3 +178,23 @@ Make 2 output variables which are "Verb" and "Noun" for the "Look at" function.
 <img width="902" height="834" alt="image" src="https://github.com/user-attachments/assets/a3f2fdc5-8675-4436-a0aa-dd1ba86e3fa8" />
 
 In the "Interact With" function make an input > First Person Character > Object Reference.
+
+ 
+<img width="1891" height="936" alt="image" src="https://github.com/user-attachments/assets/7a6b4d7f-6cd8-4dd8-9260-fecbf9471017" />
+
+Now we can connect that interactable object which is the door.
+
+<img width="2960" height="792" alt="image" src="https://github.com/user-attachments/assets/7aa50fc3-dc7e-4987-8418-a2ea41cd62b8" />
+
+Go to the door blueprint > Class Settings > Implemented Interfaces > Add "BPI Interface".
+
+<img width="742" height="782" alt="image" src="https://github.com/user-attachments/assets/10504bb5-b7c5-4b8a-a73f-a6b640070414" />
+
+Now you'll see interfaces on your new functions. You basically connected the BPI_Interaface with BP_Door.
+
+<img width="2306" height="1134" alt="image" src="https://github.com/user-attachments/assets/b8295e33-b2a4-49e9-bdac-946d2d36c003" />
+
+
+<img width="2297" height="884" alt="image" src="https://github.com/user-attachments/assets/5ed22e64-0aca-4e4a-b5d4-e4724cb8d2b9" />
+
+Go to LooAt function > Edit the blueprints for "Verb" into "Open" and "Noun" into "Door".
