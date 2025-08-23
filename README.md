@@ -222,4 +222,17 @@ IMC_Defaule this is for mapping keys and which input.
 There are existing ones already and add IA_Interact then set to "E" key pressing the keyboard then "E" lastly Save it.
 
 
+<img width="2206" height="1017" alt="image" src="https://github.com/user-attachments/assets/db8ca7bb-2cdc-4632-8854-6f1920fd0508" />
 
+<img width="2521" height="1088" alt="image" src="https://github.com/user-attachments/assets/8cf56223-07fc-447b-b951-5af1a42615e2" />
+
+
+<img width="1140" height="626" alt="image" src="https://github.com/user-attachments/assets/950ca601-e20b-4fbe-924e-2fa0d93a9243" />
+
+
+<img width="3432" height="1320" alt="image" src="https://github.com/user-attachments/assets/2ad3c621-b03f-4dd1-8c25-0a4b4d7e230a" />
+
+if you're having this trace problem just set this up to one frame <img width="912" height="749" alt="image" src="https://github.com/user-attachments/assets/3c062ed0-3dc3-4d8d-bc14-622defe8bddb" />
+
+
+<img width="912" height="749" alt="image" src="https://github.com/user-attachments/assets/ca2c411c-b9f9-4774-8759-915de875b529" />
