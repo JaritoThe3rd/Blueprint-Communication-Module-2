@@ -198,3 +198,8 @@ Now you'll see interfaces on your new functions. You basically connected the BPI
 <img width="2297" height="884" alt="image" src="https://github.com/user-attachments/assets/5ed22e64-0aca-4e4a-b5d4-e4724cb8d2b9" />
 
 Go to LooAt function > Edit the blueprints for "Verb" into "Open" and "Noun" into "Door".
+
+<img width="1876" height="986" alt="image" src="https://github.com/user-attachments/assets/bb137ce7-a56b-466a-8ae1-beab8e33ef69" />
+
+
+<iframe src="https://blueprintue.com/render/ila1if9l/" scrolling="no" allowfullscreen></iframe>
