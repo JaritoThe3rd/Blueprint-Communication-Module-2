@@ -204,3 +204,6 @@ Go to LooAt function > Edit the blueprints for "Verb" into "Open" and "Noun" int
 Remember the pattern of your Interaction Trace blueprints.
 
 <img width="1546" height="601" alt="image" src="https://github.com/user-attachments/assets/68f9a151-6188-4fff-b693-af4d54875b6e" />
+
+
+<img width="821" height="492" alt="image" src="https://github.com/user-attachments/assets/4c7a32d2-1e75-46e9-a379-0e1a28202441" />
