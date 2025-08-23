@@ -157,6 +157,24 @@ For multi line trace channel it passes and detects multiple objects at once.
 
 For line trace objects "Location" and "Impact Point" are similar compared to multi line trace.
 
+
 <img width="1048" height="623" alt="image" src="https://github.com/user-attachments/assets/c358da68-0bbd-4e62-b58a-316091b99399" />
 
+
 Where it gathers all the data as a group.
+
+
+<img width="831" height="458" alt="image" src="https://github.com/user-attachments/assets/67ffb25e-c5be-4ff2-a74c-d0546fe12b67" />
+
+
+<img width="3439" height="1354" alt="image" src="https://github.com/user-attachments/assets/ccdf09d1-be6e-4934-af6b-fe7ac584c65d" />
+
+
+<img width="1899" height="986" alt="image" src="https://github.com/user-attachments/assets/307ef451-3c73-4f90-bc79-b2ce773843f1" />
+
+Make 2 output variables which are "Verb" and "Noun" for the "Look at" function.
+
+
+<img width="902" height="834" alt="image" src="https://github.com/user-attachments/assets/a3f2fdc5-8675-4436-a0aa-dd1ba86e3fa8" />
+
+In the "Interact With" function make an input > First Person Character > Object Reference.
