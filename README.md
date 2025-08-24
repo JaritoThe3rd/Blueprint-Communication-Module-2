@@ -266,3 +266,16 @@ Making the coin dissapear like you grabbed it.
 <img width="1421" height="802" alt="image" src="https://github.com/user-attachments/assets/1b23c81e-1763-4c3b-acb7-9e1c3aef1a67" />
 
 !!!!Turns out the coin wasn't dissappearing cuz you need to add a box collision and set that box into "OverlapAll" so the coin gets detected by the player through collision.!!!!
+
+
+<img width="1809" height="935" alt="image" src="https://github.com/user-attachments/assets/b3c00dd3-674c-4caa-87ed-7965c95c7bdb" />
+
+
+<img width="731" height="918" alt="image" src="https://github.com/user-attachments/assets/608bba6d-53e4-4b70-9680-45447c53e491" />
+
+<img width="740" height="715" alt="image" src="https://github.com/user-attachments/assets/1d18f693-6dff-4ebe-8857-2d3d83a85481" />
+
+<img width="829" height="506" alt="image" src="https://github.com/user-attachments/assets/2fab15ea-f711-4b39-843b-5ec718f613ae" />
+
+Instead of adding input from the details tab you can just drag the pin onto the "AddScore" function.
+
