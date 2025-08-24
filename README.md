@@ -244,3 +244,25 @@ Beware of development only is for the early stages of your development phase, bu
 
 <img width="1882" height="927" alt="image" src="https://github.com/user-attachments/assets/671d4af4-b67f-424e-a34b-31aff96b4552" />
 
+<img width="3222" height="1298" alt="image" src="https://github.com/user-attachments/assets/3155f314-9416-4d0e-9ead-2fd35619c93b" />
+<img width="862" height="506" alt="image" src="https://github.com/user-attachments/assets/b3825fe5-0fe8-47bc-adc9-cc6e87e59123" />
+<img width="865" height="890" alt="image" src="https://github.com/user-attachments/assets/ca13cfb1-871a-4b3f-ac8a-5ad83acf924c" />
+<img width="884" height="659" alt="image" src="https://github.com/user-attachments/assets/5f17b50e-1ff8-4f9a-90d0-87b0b4b1d135" />
+<img width="867" height="415" alt="image" src="https://github.com/user-attachments/assets/052c0d7e-3b6f-4bf7-becc-a24ef4e6f646" />
+
+
+<img width="3279" height="953" alt="image" src="https://github.com/user-attachments/assets/49424a20-1511-40fe-90fa-6b81e5753b34" />
+
+Fixing the clipping issue by adjusting it from the viewport within the coin blueprint.
+
+<img width="709" height="458" alt="image" src="https://github.com/user-attachments/assets/253f79f4-337d-42c4-8345-fb461d191b03" />
+
+Adding the rotating component for the coin to rotate similar in crash bandicoot.
+
+<img width="1054" height="545" alt="image" src="https://github.com/user-attachments/assets/31a10932-aebf-4b85-83b8-e167ad1b074c" />
+
+Making the coin dissapear like you grabbed it.
+
+<img width="1421" height="802" alt="image" src="https://github.com/user-attachments/assets/1b23c81e-1763-4c3b-acb7-9e1c3aef1a67" />
+
+!!!!Turns out the coin wasn't dissappearing cuz you need to add a box collision and set that box into "OverlapAll" so the coin gets detected by the player through collision.!!!!
