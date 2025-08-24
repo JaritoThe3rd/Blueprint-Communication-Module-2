@@ -279,3 +279,24 @@ Making the coin dissapear like you grabbed it.
 
 Instead of adding input from the details tab you can just drag the pin onto the "AddScore" function.
 
+<img width="3428" height="1209" alt="image" src="https://github.com/user-attachments/assets/e3d1bc1f-4263-4e04-91b2-e54ac40801f1" />
+
+
+<img width="2133" height="943" alt="image" src="https://github.com/user-attachments/assets/d81eb807-fcaa-4048-9348-c6b72ef80122" />
+
+We can't find the "AddScore" function from the BP_COIN. <img width="130" height="36" alt="image" src="https://github.com/user-attachments/assets/47178359-3bbe-4033-88c0-d80bc3b89bc8" /> so you need to cast from parent into child class.
+
+<img width="1889" height="995" alt="image" src="https://github.com/user-attachments/assets/d6295584-a0ff-4680-8aeb-dbeed75fb620" />
+
+
+<img width="778" height="509" alt="image" src="https://github.com/user-attachments/assets/05f4bf78-77ab-4581-9d0d-6e4d0d5ca602" />
+
+<img width="779" height="842" alt="image" src="https://github.com/user-attachments/assets/5777eee5-054c-467d-b885-44ff49366cf6" />
+
+
+<img width="801" height="614" alt="image" src="https://github.com/user-attachments/assets/e626143a-be40-44c9-bccb-94a2626dca52" />
+
+
+<img width="830" height="557" alt="image" src="https://github.com/user-attachments/assets/224f4434-8fb5-408c-b669-e67103446314" />
+
+<img width="807" height="545" alt="image" src="https://github.com/user-attachments/assets/04bd9d29-4552-47ba-ab0e-052aebb1c300" />
