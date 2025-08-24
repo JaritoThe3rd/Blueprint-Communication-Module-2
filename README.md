@@ -238,3 +238,9 @@ if you're having this trace problem just set this up to one frame <img width="91
 <img width="912" height="749" alt="image" src="https://github.com/user-attachments/assets/ca2c411c-b9f9-4774-8759-915de875b529" />
 
 
+<img width="403" height="445" alt="image" src="https://github.com/user-attachments/assets/0f5a5c53-3396-4b21-b8de-2aea10a94fba" />
+
+Beware of development only is for the early stages of your development phase, but when shipping the product you musth avoid it.
+
+<img width="1882" height="927" alt="image" src="https://github.com/user-attachments/assets/671d4af4-b67f-424e-a34b-31aff96b4552" />
+
