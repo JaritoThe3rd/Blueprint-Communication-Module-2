@@ -304,3 +304,15 @@ We can't find the "AddScore" function from the BP_COIN. <img width="130" height=
 <img width="3292" height="1248" alt="image" src="https://github.com/user-attachments/assets/fd55bcf6-f9a5-49c2-89ba-52daff2033d9" />
 
 <img width="1388" height="721" alt="image" src="https://github.com/user-attachments/assets/8d574f03-eb65-4387-908d-7baaa1acaf63" />
+
+
+<img width="1599" height="690" alt="image" src="https://github.com/user-attachments/assets/b1d39ea3-b088-4eee-87d2-37eb73c4c498" />
+
+
+<img width="1511" height="963" alt="image" src="https://github.com/user-attachments/assets/a9d47ebe-d2fe-4ce4-b974-09c56a90b74b" />
+<img width="860" height="969" alt="image" src="https://github.com/user-attachments/assets/9d6eabcd-e2d1-498a-b7df-3fe5dee970fa" />
+<img width="3426" height="309" alt="image" src="https://github.com/user-attachments/assets/041a9de8-54cf-45f1-aabf-cb2c24536d25" />
+
+<img width="3421" height="1192" alt="image" src="https://github.com/user-attachments/assets/da0d8708-342b-41c7-b369-7edf60067859" />
+
+!!!! You can set the blueprint tab to show "Inherited Variables".
