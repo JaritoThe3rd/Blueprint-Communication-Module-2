@@ -338,3 +338,8 @@ We can't find the "AddScore" function from the BP_COIN. <img width="130" height=
 <img width="737" height="543" alt="image" src="https://github.com/user-attachments/assets/287f47a4-a3f2-4d62-a16f-c3eafb48ff62" />
 
 <img width="727" height="433" alt="image" src="https://github.com/user-attachments/assets/e4dfddb1-0b1a-4dbf-94e9-338e864f5f7c" />
+
+
+<img width="3216" height="1283" alt="image" src="https://github.com/user-attachments/assets/4cab7c05-8c7b-4627-b4b6-357d9ab73546" />
+<img width="1409" height="1125" alt="image" src="https://github.com/user-attachments/assets/368c529a-77da-47c3-b209-d929e888c315" />
+<img width="1176" height="1114" alt="image" src="https://github.com/user-attachments/assets/2c29b9bd-0176-43dc-8703-7139255afb5b" />
